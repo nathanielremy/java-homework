@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3de2ecc-0c72-4ac4-be19-e07d71227df4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/AbstractLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/AutomatedTellerMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/AutomatedTellerMachineTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ChainPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/ConsoleLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Denomination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/LevelLogger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Movie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/AutomatedTellerMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/AutomatedTellerMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/AutomatedTellerMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/AutomatedTellerMachine.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

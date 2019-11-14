@@ -69,9 +69,9 @@ public class AutomatedTellerMachine {
 
         currentDenomination = current;
 
-        System.out.println(fifties);
-        System.out.println(twenties);
-        System.out.println(tens);
-        System.out.println(fives);
+        System.out.println(fifties + " * €50 Bills");
+        System.out.println(twenties + " * €20 Bills");
+        System.out.println(tens + " * €10 Bills");
+        System.out.println(fives + " * €5 Bills");
     }
 }
